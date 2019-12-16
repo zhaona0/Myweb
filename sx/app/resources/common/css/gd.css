@@ -1,0 +1,144 @@
+.a{
+    background-color: #ccc;
+    width: 100%;
+    height: 550px;
+  }
+  .a1{
+      position: absolute;
+      top: 20px;
+      left: 50px;
+  }
+  #a1{
+      position: absolute;
+      top: 23px;
+      left: 30px;
+  }
+  .a2{
+      background-color: white;
+      width: 1000px;
+      height: 450px;
+      position: absolute;
+      top: 50px;
+      border: 1px solid #ccc;
+  }
+  #xx{
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .xt{
+    border: 1px solid rgb(226, 225, 225); 
+    width: 950px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+  }
+  .kh{
+    position: absolute;
+    top: 70px;
+    left: 200px;
+  }
+  .lx{
+    position: absolute;
+    top: 70px;
+    left: 600px;
+  }
+  .gy{
+    position: absolute;
+    top: 100px;
+    left: 175px;
+  }
+  .nr{
+    position: absolute;
+    top: 130px;
+    left: 147px;
+  }
+  .cj{
+    position: absolute;
+    top: 160px;
+    left: 189px;
+  }
+  .rq{
+      position: absolute;
+      top: 162px;
+      left: 600px;
+  }
+  #cl{
+      position: absolute;
+      left: 30px;
+      top:190px;
+  }
+  .xt2{
+    border: 1px solid rgb(226, 225, 225); 
+    width: 950px;
+    position: absolute;
+    top: 220px;
+    left: 20px;
+  }
+  .clr{
+    position: absolute;
+    left: 189px;
+    top:240px;
+  }
+  .fprq{
+    position: absolute;
+    top: 240px;
+    left: 600px;
+  }
+  .clqk{
+    position: absolute;
+    top: 270px;
+    left: 147px;
+  }
+  .clrq{
+    position: absolute;
+    top: 270px;
+    left: 600px;
+  }
+  #fk{
+    position: absolute;
+    left: 30px;
+    top:300px;
+  }
+  .xt3{
+    border: 1px solid rgb(226, 225, 225); 
+    width: 950px;
+    position: absolute;
+    top: 330px;
+    left: 20px;
+  }
+
+  .myd{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+  }
+  .my{
+    position: absolute;
+    left: 220px;
+    top: 500px;
+  }
+  .a3{
+    position: absolute;
+    left: 780px;
+    top: 460px;
+}
+#a3{
+
+    width: 150px;
+}
+#a4{
+    background-color: rgb(240, 169, 63);
+    color: white;
+    width: 60px;
+}
+.fkjg{
+    position: absolute;
+    top: 350px;
+   left: 148px;
+}
+.myd{
+    position: absolute;
+    top: 350px;
+    left: 610px;
+}

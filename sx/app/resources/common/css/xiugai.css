@@ -1,0 +1,79 @@
+.a{
+    background-color: #ccc;
+    width: 100%;
+    height: 400px;
+  }
+  .a1{
+      position: absolute;
+      top: 20px;
+      left: 50px;
+  }
+  #a1{
+      position: absolute;
+      top: 23px;
+      left: 30px;
+  }
+  .a2{
+      background-color: white;
+      width: 1000px;
+      height: 300px;
+      position: absolute;
+      top: 50px;
+      border: 1px solid #ccc;
+  }
+  #kh1{
+    width: 300px;
+    height: 30px;
+}
+.kh{
+   position: absolute;
+   top: 30px;
+   left: 250px;
+}
+#lx1{
+    width: 300px;
+    height: 30px;
+}
+.lx{
+    position: absolute;
+    top: 80px;
+   left: 222px;
+}
+.gy{
+    position: absolute;
+    top: 130px;
+    left: 222px;
+}
+.nr{
+    position: absolute;
+    top: 180px;
+    left: 193px;
+}
+#nr{
+    width: 300px;
+    height: 110px;
+}
+.qq{
+    position: absolute;
+    top: 180px;
+    left: 193px;
+}
+#qq{
+    position: absolute;
+    top: 180px;
+    left: 317px;
+}
+.a3{
+    position: absolute;
+    left: 800px;
+    top: 315px;
+}
+#a3{
+    width: 100px;
+    background-color: white;
+}
+#a4{
+    background-color: rgb(240, 169, 63);
+    color: white;
+    width: 60px;
+}

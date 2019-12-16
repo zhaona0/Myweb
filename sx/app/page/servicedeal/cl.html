@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title>服务维护</title>
+    <link rel="stylesheet" href="../../resources/common/css/cl.css">
+    <link rel="stylesheet" href="../../resources/common/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <!-- 页头开始 -->
+    <script src="../../resources/js/common/header.js"></script>
+    <script src="../../resources/js/common/headerbar.js"></script>
+    <!-- 页头结束 -->
+
+    <!-- 左侧菜单导航开始 -->
+    <script src="../../resources/js/common/sidebar.js"></script>
+    <!-- 左侧菜单导航结束 -->
+
+    <!-- MAIN PANEL -->
+    <div id="main" role="main">
+        <!-- 路径导航开始 -->
+        <div id="ribbon">
+            <ol class="breadcrumb">
+                <li>服务处理</li>
+            </ol>
+        </div>
+        <!-- 路径导航结束 -->
+        <div id="content">
+            <div class="a">
+                <div class="glyphicon glyphicon-edit" id="a1"></div>
+                <span class="a1">服务处理</span>
+                <div class="a2">
+                    <span id="xx"><b>基本信息</b></span>
+                    <div class="xt" ></div>
+                    <div class="kh"><span>客户：</span>&ensp;&ensp;&ensp;<span>北农</span></div>
+                    <div class="lx"><span>服务类型：</span>&ensp;&ensp;&ensp;<span>咨询</span></div>
+                    <div class="gy"><span>服务概要：</span>&ensp;&ensp;&ensp;<span>课程怎么创建</span></div>
+                    <div class="nr"><span>服务请求内容：</span>&ensp;&ensp;&ensp;<span>课程怎么创建</span></div>
+                    <div class="cj"><span>创建人：</span>&ensp;&ensp;&ensp;<span>管理员</span></div>
+                    <div class="rq"><span>创建日期：</span>&ensp;&ensp;&ensp;<span>2019-9-9</span></div>
+                    <span id="cl"><b>处理信息</b></span>
+                    <div class="xt2" ></div>
+                    <div class="clqk"><span style="color: red;">*</span>&ensp;<span>处理情况：</span></div>
+                    <div class="wbk">
+                        <input type="text" style="width: 300px; height: 80px;" >
+                    </div>
+                    <div class="a3">
+                        <button id="a3"><a href="../servicedeal/serviceDealList.html">返回服务列表</a></button>
+                        <button id="a4" onclick="bc()">保存</button>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </div>
+
+    
+
+    <!-- 包含footer，引入公用 JS -->
+    <script src="../../resources/js/common/footer.js"></script>
+</body>
+<script src="../../resources/bootstrap/js/bootstrap.min.js"></script>
+<script>
+  function sc(){
+    var result = confirm('确认删除这个服务吗？');  
+    if(result){  
+        alert('删除成功');  
+    }else{  
+        alert('确定');  
+    }  
+  }
+</script>
+</html>
